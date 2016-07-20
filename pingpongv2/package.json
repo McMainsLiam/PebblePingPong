@@ -1,0 +1,43 @@
+{
+    "author": "liam@mcmains.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pingpongv2",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "PingPongV2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/circle2",
+                    "name": "CIRC",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/circle",
+                    "name": "CIRCLE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/code",
+                    "name": "CODE_20",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "4548eeac-d250-4b72-9cf5-182d243fb3f9",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

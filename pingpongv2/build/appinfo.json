@@ -1,0 +1,42 @@
+{
+    "versionLabel": "1.0", 
+    "projectType": "native", 
+    "name": "pingpongv2", 
+    "messageKeys": {}, 
+    "companyName": "liam@mcmains.net", 
+    "enableMultiJS": true, 
+    "sdkVersion": "3", 
+    "capabilities": [
+        ""
+    ], 
+    "appKeys": {}, 
+    "longName": "PingPongV2", 
+    "displayName": "PingPongV2", 
+    "shortName": "PingPongV2", 
+    "watchapp": {
+        "watchface": false
+    }, 
+    "resources": {
+        "media": [
+            {
+                "targetPlatforms": null, 
+                "type": "bitmap", 
+                "name": "CIRC", 
+                "file": "images/circle2"
+            }, 
+            {
+                "targetPlatforms": null, 
+                "type": "bitmap", 
+                "name": "CIRCLE", 
+                "file": "images/circle"
+            }, 
+            {
+                "targetPlatforms": null, 
+                "type": "font", 
+                "name": "CODE_20", 
+                "file": "fonts/code"
+            }
+        ]
+    }, 
+    "uuid": "4548eeac-d250-4b72-9cf5-182d243fb3f9"
+}
